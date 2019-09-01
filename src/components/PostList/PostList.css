@@ -1,0 +1,11 @@
+.main-card {
+  max-width: 765px;
+  /* width: 100%; */
+  margin: auto auto;
+  /* background: #aaa; */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem;
+}
